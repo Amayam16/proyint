@@ -1,0 +1,5 @@
+##Problemática:
+En el entorno académico actual, se presenta una dificultad recurrente al intentar reportar fallos en los activos debido a que el personal encargado de su supervisión pertenece a la empresa colaboradora y no se encuentra fácilmente localizable para el alumnado. Ante esta falta de un canal directo provoca retrasos en la atención de los reportes y agrava el deterioro de los equipos. Para resolver esta problemática, se busca implementar un sistema integrado en Microsoft Teams que permita a los alumnos reportar fallas de manera directa e intuitiva, vinculando automáticamente los datos y antecedentes del activo afectado con el equipo encargado en la empresa. 
+
+##Objetivo general:
+Desarrollar e integrar un sistema de gestión de incidencias en Microsoft Teams vinculado a la base de datos de activos de la universidad, para optimizar el canal de reporte entre los alumnos y el personal de la empresa encargada, reduciendo los tiempos de respuesta y evitando el deterioro mayor de los equipos.  
